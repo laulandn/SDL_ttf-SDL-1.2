@@ -1,0 +1,1 @@
+Font is generally 19 big, and string is 19 big

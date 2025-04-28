@@ -1,0 +1,1 @@
+NOTE: Currently, at least for the time being, you must build Freetype separatelyand before you build SDL_ttf proper.  This is due to a conflict in the names ofone or more header between Freetype and zlib and/or something else SDL_ttf.(CodeWarrior gets confused if their source trees are together and/or theproject files are in them, etc).

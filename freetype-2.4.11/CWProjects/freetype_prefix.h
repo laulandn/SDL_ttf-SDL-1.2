@@ -1,0 +1,1 @@
+#define FT_OPTION_AUTOFIT2#include <freetype/internal/internal.h>#include <freetype/config/ftheader.h>
