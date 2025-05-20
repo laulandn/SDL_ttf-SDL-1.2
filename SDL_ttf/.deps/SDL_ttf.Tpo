@@ -1,0 +1,315 @@
+SDL_ttf.lo: SDL_ttf.c \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/math.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/reent.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/_ansi.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/newlib.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/_newlib_version.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/config.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/machine/ieeefp.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/features.h \
+ /Users/nick/Retro68-build/toolchain/lib/gcc/m68k-apple-macos/12.2.0/include/stddef.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/_types.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/machine/_types.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/machine/_default_types.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/lock.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/cdefs.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/_ansi.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/stdio.h \
+ /Users/nick/Retro68-build/toolchain/lib/gcc/m68k-apple-macos/12.2.0/include/stdarg.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/types.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/_stdint.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/machine/endian.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/machine/_endian.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/select.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/_sigset.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/_timeval.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/timespec.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/_timespec.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/_pthreadtypes.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/sched.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/machine/types.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/stdio.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/stdlib.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/machine/stdlib.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/alloca.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/string.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/_locale.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/Strings.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/TextUtils.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/MacTypes.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/ConditionalMacros.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/NumberFormatting.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/IntlResources.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/StringCompare.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/MixedMode.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/TextCommon.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/Script.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/TypeSelect.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/Events.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/OSUtils.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/MacMemory.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/Patches.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/DateTimeUtils.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/CFString.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/CFBase.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/CFArray.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/CFData.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/CFDictionary.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/Quickdraw.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/Components.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/MacErrors.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/Files.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/UTCUtils.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/Finder.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/QuickdrawText.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/CGContext.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/CGBase.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/stdint.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/_intsup.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/CGAffineTransform.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/CGGeometry.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/CGColorSpace.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/CGDataProvider.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/CFURL.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/CGFont.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/CGImage.h \
+ /Users/nick/Retro68-build/toolchain/universal/CIncludes/CGPDFDocument.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/string.h \
+ /opt/homebrew/opt/freetype/include/freetype2/ft2build.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/config/ftheader.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/freetype.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/config/ftconfig.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/config/ftoption.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/config/ftstdlib.h \
+ /Users/nick/Retro68-build/toolchain/lib/gcc/m68k-apple-macos/12.2.0/include-fixed/limits.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/setjmp.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/machine/setjmp.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/config/integer-types.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/config/public-macros.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/config/mac-support.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/fttypes.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/ftsystem.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/ftimage.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/fterrors.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/ftmoderr.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/fterrdef.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/ftoutln.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/ftstroke.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/ftglyph.h \
+ /opt/homebrew/opt/freetype/include/freetype2/freetype/ttnameid.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_main.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_stdinc.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_config.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_platform.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/begin_code.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/close_code.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_config_macosclassic.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/inttypes.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/ctype.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_assert.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/signal.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/signal.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_atomic.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_audio.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_error.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_endian.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_mutex.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_thread.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_rwops.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_clipboard.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_cpuinfo.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_events.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_video.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_pixels.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_rect.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_surface.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_blendmode.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_keyboard.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_keycode.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_scancode.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_mouse.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_joystick.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_guid.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_gamecontroller.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_sensor.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_quit.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_gesture.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_touch.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_filesystem.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_haptic.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_hidapi.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_hints.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_loadso.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_log.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_messagebox.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_metal.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_power.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_render.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_shape.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_system.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_timer.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_version.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_locale.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_misc.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_endian.h \
+ SDL_ttf.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/begin_code.h \
+ /Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/close_code.h
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/math.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/reent.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/_ansi.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/newlib.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/_newlib_version.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/config.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/machine/ieeefp.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/features.h:
+/Users/nick/Retro68-build/toolchain/lib/gcc/m68k-apple-macos/12.2.0/include/stddef.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/_types.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/machine/_types.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/machine/_default_types.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/lock.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/cdefs.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/_ansi.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/stdio.h:
+/Users/nick/Retro68-build/toolchain/lib/gcc/m68k-apple-macos/12.2.0/include/stdarg.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/types.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/_stdint.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/machine/endian.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/machine/_endian.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/select.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/_sigset.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/_timeval.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/timespec.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/_timespec.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/_pthreadtypes.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/sched.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/machine/types.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/stdio.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/stdlib.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/machine/stdlib.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/alloca.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/string.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/_locale.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/Strings.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/TextUtils.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/MacTypes.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/ConditionalMacros.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/NumberFormatting.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/IntlResources.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/StringCompare.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/MixedMode.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/TextCommon.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/Script.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/TypeSelect.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/Events.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/OSUtils.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/MacMemory.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/Patches.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/DateTimeUtils.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/CFString.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/CFBase.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/CFArray.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/CFData.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/CFDictionary.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/Quickdraw.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/Components.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/MacErrors.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/Files.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/UTCUtils.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/Finder.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/QuickdrawText.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/CGContext.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/CGBase.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/stdint.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/_intsup.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/CGAffineTransform.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/CGGeometry.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/CGColorSpace.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/CGDataProvider.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/CFURL.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/CGFont.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/CGImage.h:
+/Users/nick/Retro68-build/toolchain/universal/CIncludes/CGPDFDocument.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/string.h:
+/opt/homebrew/opt/freetype/include/freetype2/ft2build.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/config/ftheader.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/freetype.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/config/ftconfig.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/config/ftoption.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/config/ftstdlib.h:
+/Users/nick/Retro68-build/toolchain/lib/gcc/m68k-apple-macos/12.2.0/include-fixed/limits.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/setjmp.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/machine/setjmp.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/config/integer-types.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/config/public-macros.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/config/mac-support.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/fttypes.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/ftsystem.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/ftimage.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/fterrors.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/ftmoderr.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/fterrdef.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/ftoutln.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/ftstroke.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/ftglyph.h:
+/opt/homebrew/opt/freetype/include/freetype2/freetype/ttnameid.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_main.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_stdinc.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_config.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_platform.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/begin_code.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/close_code.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_config_macosclassic.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/inttypes.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/ctype.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_assert.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/signal.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/sys/signal.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_atomic.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_audio.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_error.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_endian.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_mutex.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_thread.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_rwops.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_clipboard.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_cpuinfo.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_events.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_video.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_pixels.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_rect.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_surface.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_blendmode.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_keyboard.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_keycode.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_scancode.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_mouse.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_joystick.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_guid.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_gamecontroller.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_sensor.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_quit.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_gesture.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_touch.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_filesystem.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_haptic.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_hidapi.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_hints.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_loadso.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_log.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_messagebox.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_metal.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_power.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_render.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_shape.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_system.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_timer.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_version.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_locale.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_misc.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/SDL_endian.h:
+SDL_ttf.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/begin_code.h:
+/Users/nick/Retro68-build/toolchain/m68k-apple-macos/include/SDL2/close_code.h:
